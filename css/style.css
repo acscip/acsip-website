@@ -944,7 +944,7 @@ em { font-style: italic; color: var(--gold); }
 
 .about-page-hero { background-image: url('../images/about1.jpg'); }
 .events-page-hero { background-image: url('../images/independance.jpg'); }
-.gallery-page-hero { background-image: url('../images/food_festival.jpg'); }
+.gallery-page-hero { background-image: url('../images/about3.jpg'); }
 
 .page-hero-overlay {
   position: absolute;
